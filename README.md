@@ -108,8 +108,8 @@ Below are samples demonstrating the 4x upscaling capability on the OLI2MSI datas
 
 | Low Resolution (Input) | High Resolution (Output) |
 | --- | --- |
-| ![LR](RealEsrgan/Images/LR.png) | ![HR](RealEsrgan/Images/HR.png) |
-| ![LR2](RealEsrgan/Images/LR2.jpg) | ![HR2](RealEsrgan/Images/HR2.png) |
+| ![LR](Images/LR.png) | ![SR](Images/SR.png) |
+| ![LR2](Images/LR2.jpg) | ![SR2](Images/SR2.png) |
 
 ## Acknowledgements
 
