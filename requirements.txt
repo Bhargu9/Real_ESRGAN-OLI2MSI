@@ -1,0 +1,9 @@
+torch
+torchvision
+rasterio
+numpy
+Pillow
+scikit-image
+scikit-learn
+piq
+h5py
